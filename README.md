@@ -9,15 +9,18 @@ This is a free repository with the aim to create usefull interactive python scri
 
 The aim is to create interactive python notebooks via sliders or any other GUI that can be used in an interactive way to deeply understand the specific topic. 
 
-Example:
+Example description:
 <br>
-<img src="images/example.png" alt="Example" width="50%" height="50%">
+<img src="images/example-description.png" alt="Example" width="50%" height="50%">
+
+Example GUI:
+<br>
+<img src="images/example-GUI.png" alt="Example" width="50%" height="50%">
 
 ## Structure
 
-The topics already studied correspond to their python notebook name. Here the list:
+The topics already studied correspond to their python notebook name. Here there is the list:
 
-* images/
 - bode.ipynb
 - corrective-network.ipynb
 - nichols.ipynb
@@ -27,6 +30,10 @@ The topics already studied correspond to their python notebook name. Here the li
 - root-locus.ipynb
 - stability.ipynb
 - steady-state-error.ipynb
+
+All the images needed in the description of the python notebook are in the folder:
+
+* images/
 
 
 ## Collaboration
