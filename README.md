@@ -3,7 +3,7 @@
 This is a free repository with the aim to create usefull interactive python scripts to better understand the topics of the Control Theory
 
 <br>
-<img src="images/unity-feedback-schema.png" alt="Controller Schema" width="40%" height="40%">
+<img src="images/unity-feedback-schema.png" alt="Controller Schema" width="50%" height="50%">
 
 ## Rules
 
@@ -11,7 +11,7 @@ The aim is to create interactive python notebooks via sliders or any other GUI t
 
 Example:
 <br>
-<img src="images/example.png" alt="Example" width="40%" height="40%">
+<img src="images/example.png" alt="Example" width="50%" height="50%">
 
 ## Structure
 
