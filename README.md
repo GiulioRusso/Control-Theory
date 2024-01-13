@@ -1,4 +1,4 @@
-# Control Theory
+# Control Theory Repository
 
 This is a free repository with the aim to create usefull interactive python scripts well commented and explained in order to better understand the topics of the Control Theory
 
