@@ -2,6 +2,8 @@
 
 This is a free repository with the aim to create usefull scripts to better understand the topics of the Control Theory
 
+<br>
+<img src="images/unity-feedback-schema.png" alt="Controller Schema" width="40%" height="40%">
 
 ## Structure
 
