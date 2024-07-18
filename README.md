@@ -15,10 +15,6 @@ Example GUI:
 
 Any description on the topic covered in the script can be added
 
-Example description:
-<br>
-<img src="images/example-description.png" alt="Example" width="50%" height="50%">
-
 ## Structure
 
 The topics already studied correspond to their python script name. Here there is the list:
